@@ -1,0 +1,172 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+a{
+    text-decoration: none;
+    margin-right: 35px;
+    font-family: Poppins, sans-serif;
+}
+
+#Header .all{
+
+    padding: 20px 2rem;
+    
+   
+    width: 100%;
+
+}
+#Header{
+    
+    padding: 0.1px 0rem;
+  
+    width: 100%;
+
+   
+
+}
+#center-word{
+    overflow: auto;
+    padding: 150px;
+    position: absolute;
+    width: 100%;
+    text-align: center;
+}
+#Header .left{
+    float: left;
+    
+    
+}
+
+#Header .right{
+    float: right;
+    margin-top: 15px;
+   
+   
+}
+
+#Header .all{
+    position: fixed;
+    background-color: white;
+
+}
+.btn{
+    background-color: transparent;
+    border: 1px solid black;
+    border-radius: 30px;
+    height: 50px;
+    width: 150px;
+    
+}
+.btn-2{
+    background-color:#fd4766;
+    border: 1px solid red;
+    border-radius: 60px;
+    font-size: 2rem;
+    text-align: center;
+    margin: 15px;
+    margin-top: 50px ;
+    display: inline-block;
+    height: 100px;
+    width: 300px;
+    color: white;
+    padding: 1.5rem;
+  
+}
+.btn:hover{
+    background-color: #fd4766;
+    transition: 1s;
+}
+.btn-2:hover{
+   
+    border: 1px solid #fd4766;
+    background-color: transparent;
+    color: #fd4766;
+    transition: 1s;
+}
+
+#web-center .center-all .center-word{
+   height: 150px;
+  
+    text-align: center;
+    margin: 270px;
+    font-size: xxx-large;
+}
+#web-center{
+    margin-top: 150px;
+}
+.div-box{
+  height: 150px;
+  margin: auto;
+  background-color: blue;
+    padding: 15px;
+}
+
+p{
+    font-size: xx-l;
+}
+
+
+.body {
+    
+    background-image: url(../Photos/bg.jpg);
+    background-size: contain;
+    height: 750px;
+    background-repeat: no-repeat;
+   
+ }
+
+ .creative{
+    
+    font-family: 'Montserrat', sans-serif;
+    
+ }
+
+ p{
+    color: white;
+    font-size: 2rem;
+    font-family: 'Poppins', sans-serif;
+ }
+
+ #s2 {
+    padding: 100px 100px 100px;
+    text-align: center;
+    margin: 30px;
+    overflow: auto;
+  }
+  #s2 .box {
+    padding: 50px;
+    width: 30%;
+    float: left;
+    background-color: #f6f6f6;
+    margin: 30px 0 0;
+    margin: 20px 20px;
+    border-radius: 10px;
+  }
+  #s2 .box .icon {
+    font-size: 45px;
+    font-weight: 400;
+    margin-bottom: 23px;
+    color: #a42e2b;
+    border-radius: 100%;
+    float: left;
+  }
+  
+  #s2 .box h3 {
+    font-size: 18px;
+    line-height: 1.67;
+    font-size: 20px;
+    margin: 0 0 19px;
+    font-family: Poppins, sans-serif;
+    font-weight: 600;
+  }
+  #s2 .box p {
+    color: gray;
+    font-size: 15px;
+    line-height: 1.70;
+  }
